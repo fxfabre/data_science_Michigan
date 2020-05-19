@@ -2,7 +2,7 @@
 
 from unittest import TestCase
 from parameterized import parameterized
-from week_31.date_parser import parse_date, regexs_str
+from week_4x.date_parser import parse_date, regexs_str
 
 
 class TestDateParser(TestCase):

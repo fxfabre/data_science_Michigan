@@ -1,4 +1,6 @@
 -r requirements.txt
 
 parameterized
+jupyterlab
+pip-tools
 
